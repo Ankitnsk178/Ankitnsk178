@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankitnsk178
-- 👀 I’m interested in web development , ML-AI and Problem Solving
+- 👀 I’m interested in Game development and web development
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
